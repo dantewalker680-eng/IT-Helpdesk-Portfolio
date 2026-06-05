@@ -1,4 +1,4 @@
-# # IT Help Desk Portfolio
+# IT Help Desk Portfolio
 
 ## Overview
 
